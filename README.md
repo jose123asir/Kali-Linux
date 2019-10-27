@@ -31,4 +31,5 @@ Debian GNU/Linux puede instalarse utilizando distintos mecanismos de instalació
 
 ## Referencias
 [1.Descripción] (https://es.wikipedia.org/wiki/Kali_Linux)
+
 [2. Sistema Operativo basado (https://es.wikipedia.org/wiki/Debian_GNU/Linux)
