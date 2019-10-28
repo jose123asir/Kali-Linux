@@ -32,10 +32,10 @@ Uno de sus principales objetivos es separar en sus versiones el software libre d
 Debian GNU/Linux puede instalarse utilizando distintos mecanismos de instalación, como DVD, CD, USB, e incluso directamente desde la red (Este último depende de la velocidad de la red del usuario).
 
 ## 3. Herramientas de Kali-Linux
-### 3.1 Wireshark (https://www.wireshark.org/)
+### 3.1 [Wireshark](https://www.wireshark.org/)
 Este programa es todo un clásico en el mundo de la seguridad informática y no podía faltar en Kali Linux. Este programa se encarga de analizar paquetes de tu red, los cuales luego puedes abrir y ver de manera detallada lo que significa. Por ejemplo si alguien ha metido su usuario y su contraseña en una web(que no esté cifrada), podrás ver ese usuario y esa contraseña analizando el paquete.
 
-### 3.2  Armitage (https://www.dragonjar.org/manual-de-armitage-en-espanol.xhtml)
+### 3.2 [Armitage](https://www.dragonjar.org/manual-de-armitage-en-espanol.xhtml)
 Este programa es una GUI de ataques Metasploit, la cual te permitirá hacer estos ataques de una forma visual e intuitiva. Con esta aplicación, podremos comprobar si nuestros equipos son vulnerables o no a sploits. Además de poder ejecutar ataques metasploit sin saber comandos, también podremos hacer análisis de Nmap e incluso hacer ataques de fuerza bruta.
 
 ## Referencias
