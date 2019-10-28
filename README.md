@@ -7,9 +7,9 @@ Aquí trataremos de los siguientes apartados
 2. Sistema Operativo en el que esta basado Kali-Linux
 3. Herramientas de Kali-Linux
 
-3.1 Wireshark
+   3.1 Wireshark
 
-3.2 Armitage
+   3.2 Armitage
 
 ## 1.Descripción
 Kali Linux es una distribución basada en Debian GNU/Linux diseñada principalmente para la auditoría y seguridad informática en general. Fue fundada y es mantenida por Offensive Security Ltd. Mati Aharoni y Devon Kearns, ambos pertenecientes al equipo de Offensive Security, desarrollaron la distribución a partir de la reescritura de BackTrack, que se podría denominar como la antecesora de Kali Linux.
